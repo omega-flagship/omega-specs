@@ -26,3 +26,7 @@ The durable decisions for SingularityNET's Omega: **architecture decision record
 - Every ADR states its premises, with how and when each was verified, and the alternatives it rejected.
 - Statuses: `proposed` → `accepted`. An accepted ADR changes only by an amendment, which is a re-ratification, or by a new ADR that supersedes it.
 - Changes arrive by pull request. **A human merges.** ADRs are drafted by `snet-omega-software-architect`.
+
+## Licence
+
+Apache-2.0 (`LICENSE`).
